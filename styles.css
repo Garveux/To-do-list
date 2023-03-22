@@ -37,10 +37,10 @@ li:hover{
 }
 
 .btnn{
-    height: 50px;
-    width: 2%;
+    height: 100%;
+    width: 2.5%;
     position: absolute;
-    right: 7px;
+    right: 0;
     background-color: #F16767;
     border: 0.5px solid;
 }
@@ -55,11 +55,11 @@ div{
 }
 #inp{
     position: relative;
-    left: 200px;
+    left: 10%;
 }
 #btn{
     position: relative;
-    right: 275px;
+    right: 10%;
     width: 15%;
 }
 #btn:active{
